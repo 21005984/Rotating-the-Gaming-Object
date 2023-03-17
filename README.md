@@ -61,7 +61,7 @@ public class Program : MonoBehaviour
 ## Output:
 ![output](v2.JPEG)
 
-![OUTPUT](v1.JPEG)
+![output](v1.JPEG)
 
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity is developed sucessfully.
